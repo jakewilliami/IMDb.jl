@@ -7,3 +7,6 @@
 **This package is a work in progress.**
 
 `IMDb.jl` is a package written in Julia based on [`IMDbPy`](https://github.com/alberanid/imdbpy).
+
+[code-style-img]: https://img.shields.io/badge/code%20style-blue-4495d1.svg
+[code-style-url]: https://github.com/invenia/BlueStyle
